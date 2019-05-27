@@ -1,4 +1,4 @@
-# Rendu exercice -> bmc_entretien
+# Rendu exercice -> bcm_entretien
 
 Rendu d'exercice pour entretien au post de développeur back-end chez "Oui planète".
 
