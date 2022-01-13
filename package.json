@@ -9,6 +9,6 @@
   "author": "mehdi bereddad",
   "license": "ISC",
   "dependencies": {
-    "follow-redirects": "^1.7.0"
+    "follow-redirects": "^1.14.7"
   }
 }
